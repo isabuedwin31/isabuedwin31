@@ -1,4 +1,5 @@
-## Hi there friend👋
+## Hello dear👋
+Am Edwin welcome to my profile
 
 <!--
 **isabuedwin31/isabuedwin31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
